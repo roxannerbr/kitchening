@@ -5,13 +5,13 @@
     margin: 20px 0;
     
 }
-.home main section .image{
+.home main section article .img{
     position: relative;
 }
-.home main section .producto{
+.home main section article .producto{
     width: 100%;
 }
-.home main section .etiqueta{
+.home main section article .etiqueta{
     position: absolute;
     top: 0px;
     right: 15px;
